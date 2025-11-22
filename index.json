@@ -56,8 +56,8 @@
       "US"
     ],
     "icon": "https://nyaa.si/static/favicon.png",
-    "update": "gh:BeastBBoy/extensions",
-    "code": "gh:BeastBBoy/extensions/nyaasi"
+    "update": "gh:Ojas7112008/test",
+    "code": "gh:Ojas7112008/test/nyaasi"
   },
   {
   "id": "PirateBay",
@@ -71,8 +71,8 @@
   ],
   "description": "Fetches torrents from The Pirate Bay via Torrents-API",
   "icon": "https://upload.wikimedia.org/wikipedia/commons/f/f4/The_Pirate_Bay_logo_%28brown%29.svg",
-  "update": "gh:BeastBBoy/extensions",
-  "code": "gh:BeastBBoy/extensions/piratebay"
+  "update": "gh:Ojas7112008/test",
+  "code": "gh:BOjas7112008/test/piratebay"
 }
 
 ]
